@@ -24,7 +24,10 @@ Funksionet e këtij aplikacioni janë :
 8. Nëse klikohet "Pay" atëherë zbrazet shporta 
 9. Nëse janë bërë porositë atëherë në View shfaqet mesazhi Thanks for Ordering !
 10. Nëse shporta është e zbrazët , në view gjindet teksti ku tregon se shporta është e zbrazët 
+
+
 ![pic](https://user-images.githubusercontent.com/58296379/175837967-81bc3819-7bb2-4538-8372-c6d76ba0dd6a.png)
-![pic1](https://user-images.githubusercontent.com/58296379/175837969-35a03c14-57ea-4164-b701-95d671fca496.png)
-![pic2](https://user-images.githubusercontent.com/58296379/175837972-63aaed35-e4a5-4129-97e1-3a25a90baea5.png)
-![pic3](https://user-images.githubusercontent.com/58296379/175837980-e663abdc-7938-4795-b00c-ed4665704164.png)
+
+![pict1](https://user-images.githubusercontent.com/58296379/175838055-7408e408-78d6-430c-99a4-028af5e6673e.png)
+
+![pict2](https://user-images.githubusercontent.com/58296379/175838058-94ef9a70-5bd8-438d-a2a3-ccf37e240a4d.png)

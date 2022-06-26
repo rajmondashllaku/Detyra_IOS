@@ -25,3 +25,4 @@ Funksionet e këtij aplikacioni janë :
 9. Nëse janë bërë porositë atëherë në View shfaqet mesazhi Thanks for Ordering !
 10. Nëse shporta është e zbrazët , në view gjindet teksti ku tregon se shporta është e zbrazët 
 
+![CleanShot 2022-06-27 at 00 54 27@2x](https://user-images.githubusercontent.com/58296379/175837893-1120d5a3-c35e-4071-9223-4a8a1f52363a.png)
